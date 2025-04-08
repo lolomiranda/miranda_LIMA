@@ -1,0 +1,46 @@
+.imagem {
+    position: absolute;
+    display: flex;
+    background-color: rgba(29, 221, 255, 0.617);
+    width: 1900px;
+    height: 150px;
+    margin-top: 0px;
+
+}
+
+.palavras {
+    text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+    color: rgb(255, 146, 22);
+
+    font-size: 40px;
+    display: flex;
+    margin-left: 550px;
+    margin-top: 50px;
+
+}
+
+.contato {
+    text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+    font-size: 40px;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 50px;
+    color: orange;
+    
+}
+
+.img1 {
+    border-radius:  0%;
+    width: 100px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: 35px;
+}
